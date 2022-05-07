@@ -1,1 +1,3 @@
-I am Fatima SafdarI am the Student of Junior full stack Java Developer. I like to be a part of Generation.
+I am Fatima Safdar.
+I am the Student of Junior full stack Java Developer. 
+I like to be a part of Generation.
