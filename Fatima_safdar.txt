@@ -1,3 +1,4 @@
 I am Fatima Safdar.
-I am the Student of Junior full stack Java Developer. 
-I like to be a part of Generation.
+I am doing Git repository with GitHub.
+I like to learn more on Git and GitHub.
+I want to create more new repositories.
